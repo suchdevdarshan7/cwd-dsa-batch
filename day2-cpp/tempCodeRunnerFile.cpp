@@ -1,0 +1,1 @@
+cout << "The numbers are equal";
